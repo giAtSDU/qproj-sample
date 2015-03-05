@@ -1,0 +1,5 @@
+Django==1.7.5
+django-tastypie==0.12.1
+nose2==0.5.0
+nose2django==0.1.2
+sure==1.2.9
